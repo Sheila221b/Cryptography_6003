@@ -1,10 +1,4 @@
 # coding:utf-8
-"""
-Author  : XINRAN HU
-Student ID  : G2403080B
-Time    : 2024/10/25
-Desc:
-"""
 import os
 
 from Crypto import Random
